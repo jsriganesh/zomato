@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zomato.iml" filepath="$PROJECT_DIR$/.idea/modules/zomato.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1694677992/zomato.@react-native-community_checkbox.iml" filepath="$PROJECT_DIR$/.idea/modules/-1694677992/zomato.@react-native-community_checkbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/zomato.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/zomato.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1390184408/zomato.react-native-blur.iml" filepath="$PROJECT_DIR$/.idea/modules/-1390184408/zomato.react-native-blur.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1694677992/zomato.react-native-community_checkbox.iml" filepath="$PROJECT_DIR$/.idea/modules/-1694677992/zomato.react-native-community_checkbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1028237042/zomato.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/1028237042/zomato.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1536808411/zomato.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-1536808411/zomato.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1543237847/zomato.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/1543237847/zomato.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1247235406/zomato.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/1247235406/zomato.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-666478874/zomato.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-666478874/zomato.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-314857519/zomato.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-314857519/zomato.react-native-vector-icons.iml" />
+    </modules>
+  </component>
+</project>
