@@ -1,0 +1,6 @@
+module Pods_zomato_zomatoTests {
+  umbrella header "Pods-zomato-zomatoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
